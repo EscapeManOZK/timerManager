@@ -1,0 +1,12 @@
+{
+  "global": {
+    "title": "Timer Manager",
+    "left-menu": {
+
+    },
+    "nav-titles": {
+      "home": "Accueil"
+    }
+  },
+  "app-timer-manager": {}
+}
